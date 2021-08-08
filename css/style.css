@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header-bg-color{
+    background-color: #264653;
+}
+.btn-color{
+    color: #FFFFFF;
+    width: 168px;
+    height: 44px;
+    background-color: #E76F51;
+    border-radius: 5px;
+}
+.header-text-color{
+    color: #E76F51;
+}
+.filter-gray{
+    filter: grayscale(100%);
+}
+.fa-star.empty{
+    color: #E76F51;
+ }
+ .client-name-txt-color{
+     color: #23A6F0;
+ }
+ .hover-icon-footer:hover{
+     color: gray;
+ }
+ .links{
+     color: black;
+     text-decoration: none;
+ }
+ .links:hover{
+    text-decoration: underline;
+    color: #E76F51;
+}
